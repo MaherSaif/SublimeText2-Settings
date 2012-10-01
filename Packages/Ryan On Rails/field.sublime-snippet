@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[<div class="field">
+	<%= f.label :${1:name} %>
+	<%= f.${2:text_field} :$1$3 %>
+</div>]]></content>
+    <tabTrigger>fi</tabTrigger>
+    <scope>text.html</scope>
+    <description>field</description>
+</snippet>

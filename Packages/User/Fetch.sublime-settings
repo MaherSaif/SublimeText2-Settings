@@ -1,0 +1,12 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"normalize.css": "https://github.com/necolas/normalize.css/raw/master/normalize.css",
+		"prefixfree": "https://raw.github.com/LeaVerou/prefixfree/master/prefixfree.min.js"
+	},
+	"packages":
+	{
+		"html5-boilerplate": "http://github.com/h5bp/html5-boilerplate/zipball/v2.0stripped"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+		"BracketHighlighter",
+		"AAAPackageDev",
+		"AsAbove",
+		"SublimeLinter",
+		"ASP",
+		"ActionScript",
+		"AppleScript",
+		"C#",
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
+	],
+	"theme": "Soda Light.sublime-theme"
+}
